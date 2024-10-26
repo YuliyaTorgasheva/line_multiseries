@@ -6,7 +6,6 @@ Some examples of line multiseries (subplots) charts to use instead of 'spagetti'
 <p> To demonstrate higher education dynamics in post-Soviet countries, I use multiseries charts made with Plotly.
 
 <p>A line chart is the first choice to show the comparative dynamics of higher education students in different countries.</p>
-<>
 
 <p>Data Source: https://new.cisstat.org/web/guest/cis-stat-home?iFrameId=720146
 
